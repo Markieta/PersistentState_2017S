@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mareklaskowski.persistentstate_2017s" >
+    package="com.markieta.persistentstate_2017s" >
 
     <application
         android:allowBackup="true"

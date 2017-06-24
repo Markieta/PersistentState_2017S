@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PersistentState_2017S</string>
+    <string name="placeholder_grade">Placeholder Grade</string>
+    <string name="student_grade_text">Student grade: (it will be your job to save this state!)</string>
+    <string name="student_id_text">Student ID (save with shared preferences)</string>
+    <string name="button_text">Add</string>
+    <string name="placeholder_id">Placeholder ID</string>
+    <string name="top_text_view_text">Make sure you do a proper layout!!!</string>
 </resources>
